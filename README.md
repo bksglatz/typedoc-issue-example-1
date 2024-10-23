@@ -1,3 +1,5 @@
+Example for TypeDoc Issue: [https://github.com/TypeStrong/typedoc/issues/2754](https://github.com/TypeStrong/typedoc/issues/2754)
+
 Steps:
 - Run `npm install`
 - Go to Project1 directory and run `..\node_modules\.bin\tsc`
