@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json.schemastore.org/tsconfig",
+  "compilerOptions": {
+    "outFile": "Project1.js"
+  },
+  "files": [
+    "Test1.ts"
+  ]
+}

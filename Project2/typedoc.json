@@ -1,0 +1,7 @@
+{
+  "$schema": "https://typedoc.org/schema.json",
+  "name": "Test",
+  "entryPoints": [ "A/A.ts", "B/B.ts" ],
+  "out": "Doc",
+  "projectDocuments": [ "" ]
+}

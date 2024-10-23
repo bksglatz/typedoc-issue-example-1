@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json.schemastore.org/tsconfig",
+  "files": [
+    "A.ts"
+  ],
+  "include": [
+    "../../Project1/Test1.ts"
+  ]
+}
